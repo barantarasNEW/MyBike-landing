@@ -20,6 +20,7 @@
   }
 
   &__tooltip {
+    padding: 8px;
     display: none;
 
     @include onDesktop {
